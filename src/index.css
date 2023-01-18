@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(237, 229, 218);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button {
+  font-size: 12px bold;
+  background-color: rgb(237, 229, 218);
+  width: 150px;
+  height: 50px;
+  border: 2px solid 
+  
+}
+
+table {
+  border: 2px;
+  
 }
